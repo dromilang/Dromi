@@ -173,10 +173,10 @@ windawk.windawk()
 > Se installi più versioni, potrebbe esserci una cartella specifica "Dromi Docs" per racchiuderli. (Alcuni collegamenti potrebbero non avere l'icona)
 > Nella 1.0.3 Abbiamo sostituito questi collegamenti on un'applicazione, di nome Dromi Docs, che trova i Docs di ogni versione da solo
 
->[!IMPORTANT]
->Se installate/avete installato più versioni di Dromi:
->- Elimina le vecchie versioni (Solo 1.0.2 in giù e Linux)
->- Usa per i comandi `dromi` e poi la versione (senza i "."), ad esempio, per la 1.1.0 `dromi110`
+> [!IMPORTANT]
+> Se installate/avete installato più versioni di Dromi:
+> - Elimina le vecchie versioni (Solo 1.0.2 in giù e Linux)
+> - Usa per i comandi `dromi` e poi la versione (senza i "."), ad esempio, per la 1.1.0 `dromi110` (1.0.3+)
 
 ---
 
