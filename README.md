@@ -8,8 +8,8 @@
 [![Chat](https://img.shields.io/badge/GitHub%20Discussions-vai-006400)](https://github.com/DeMENIGECO/Dromi/discussions)
 [![Changelog](https://img.shields.io/badge/Changelog-vai-007FFF)](https://github.com/DeMENIGECO/Dromi/blob/main/CHANGELOG.md)
 [![TestNC](https://github.com/DeMENIGECO/Dromi/actions/workflows/test-py.yml/badge.svg)](https://github.com/DeMENIGECO/Dromi/actions/workflows/test-py.yml)
-[![FeatureRequests](https://img.shields.io/github/issues/DeMENIGECO/Dromi/feature.svg)](https://github.com/DeMENIGECO/Dromi/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
-[![Problems](https://img.shields.io/github/issues/DeMENIGECO/Dromi/bug.svg)](https://github.com/DeMENIGECO/Dromi/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
+[![FeatureRequests](https://img.shields.io/github/issues/DeMENIGECO/Dromi?label=feature%20requests&color=blue&labelColor=black&query=is%3Aissue+is%3Aopen+label%3Aenhancement)](https://github.com/DeMENIGECO/Dromi/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
+[![Problems](https://img.shields.io/github/issues/DeMENIGECO/Dromi?label=bugs&color=red&labelColor=black&query=is%3Aissue+is%3Aopen+label%3Abug)](https://github.com/DeMENIGECO/Dromi/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 
 _Go to PC's Dromi!_
