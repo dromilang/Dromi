@@ -12,7 +12,7 @@
 [![Problems](https://img.shields.io/github/issues/DeMENIGECO/Dromi?label=bugs&color=red&labelColor=black&query=is%3Aissue+is%3Aopen+label%3Abug)](https://github.com/DeMENIGECO/Dromi/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 
-_Go to PC's Dromi!_
+_Go to PCs Dromi!_
 
 </div>
 
