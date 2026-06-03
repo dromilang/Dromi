@@ -4,11 +4,11 @@
 
 # Dromi 1.1.1
 
-[![PassingBin](https://img.shields.io/badge/Test%20Dromi%20compilato-passing-green?logo=github)](https://github.com/DeMENIGECO/Dromi/blob/main/.github/SIGNIFICATES.md?sect=Test-passati#test-passati)
-[![Chat](https://img.shields.io/badge/GitHub%20Discussions-vai-006400)](https://github.com/DeMENIGECO/Dromi/discussions)
-[![Changelog](https://img.shields.io/badge/Changelog-vai-007FFF)](https://github.com/DeMENIGECO/Dromi/blob/main/CHANGELOG.md)
-[![FeatureRequests](https://img.shields.io/github/issues/DeMENIGECO/Dromi?label=feature%20requests&color=blue&labelColor=black&query=is%3Aissue+is%3Aopen+label%3Aenhancement)](https://github.com/DeMENIGECO/Dromi/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
-[![Problems](https://img.shields.io/github/issues/DeMENIGECO/Dromi?label=bugs&color=red&labelColor=black&query=is%3Aissue+is%3Aopen+label%3Abug)](https://github.com/DeMENIGECO/Dromi/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
+[![PassingBin](https://img.shields.io/badge/Test%20Dromi%20compilato-passing-green?logo=github)](https://github.com/dromilang/Dromi/blob/main/.github/SIGNIFICATES.md?sect=Test-passati#test-passati)
+[![Chat](https://img.shields.io/badge/GitHub%20Discussions-vai-006400)](https://github.com/dromilang/Dromi/discussions)
+[![Changelog](https://img.shields.io/badge/Changelog-vai-007FFF)](https://github.com/dromilang/Dromi/blob/main/CHANGELOG.md)
+[![FeatureRequests](https://img.shields.io/github/issues/dromilang/Dromi?label=feature%20requests&color=blue&labelColor=black&query=is%3Aissue+is%3Aopen+label%3Aenhancement)](https://github.com/DeMENIGECO/Dromi/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
+[![Problems](https://img.shields.io/github/issues/dromilang/Dromi?label=bugs&color=red&labelColor=black&query=is%3Aissue+is%3Aopen+label%3Abug)](https://github.com/DeMENIGECO/Dromi/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 
 _Go to PCs Dromi!_
@@ -152,18 +152,18 @@ windawk.windawk()
 ## Installa
 
 ### Ultima Versione
-👉 [Scarica l'ultima versione - Windows 64 Bit](https://github.com/DeMENIGECO/Dromi/releases/download/1.1.1/dromi_installer_64bit_windows_1.1.1.exe)
+👉 [Scarica l'ultima versione - Windows 64 Bit](https://github.com/dromilang/Dromi/releases/download/1.1.1/dromi_installer_64bit_windows_1.1.1.exe)
 
 ### Oppure una versione specifica
 
 | Versione | Installa       | Supporto |
 |:--------:|:--------------:|:---------|
-| 1.1.1    | [Windows 64 Bit](https://github.com/DeMENIGECO/Dromi/releases/download/1.1.1/dromi_installer_64bit_windows_1.1.1.exe)| Supportata |
-| 1.1.0    | [Windows 64 Bit](https://github.com/DeMENIGECO/Dromi/releases/download/1.1.0/dromi_installer_64bit_windows_1.1.0.exe)| Supportata |
-| 1.0.3    | [Windows 64 Bit](https://github.com/DeMENIGECO/Dromi/releases/download/1.0.3/dromi_installer_64bit_windows_1.0.3.exe)| Supportata | 
-| 1.0.2    | [Windows 64 Bit](https://github.com/DeMENIGECO/Dromi/releases/download/1.0.2/dromi_installer_64bit_windows_1.0.2.exe)| Supportata |
-| 1.0.1    | [Windows 64 Bit](https://github.com/DeMENIGECO/Dromi/releases/download/1.0.1/dromi_installer_64bit_windows_1.0.1.exe)| Supportata |
-| 1.0.0    | [Windows 64 Bit](https://github.com/DeMENIGECO/Dromi/releases/download/1.0.0/dromi_installer_64bit_windows_1.0.0.exe)| Supportata |
+| 1.1.1    | [Windows 64 Bit](https://github.com/dromilang/Dromi/releases/download/1.1.1/dromi_installer_64bit_windows_1.1.1.exe)| Supportata |
+| 1.1.0    | [Windows 64 Bit](https://github.com/dromilang/Dromi/releases/download/1.1.0/dromi_installer_64bit_windows_1.1.0.exe)| Supportata |
+| 1.0.3    | [Windows 64 Bit](https://github.com/dromilang/Dromi/releases/download/1.0.3/dromi_installer_64bit_windows_1.0.3.exe)| Supportata | 
+| 1.0.2    | [Windows 64 Bit](https://github.com/dromilang/Dromi/releases/download/1.0.2/dromi_installer_64bit_windows_1.0.2.exe)| Supportata |
+| 1.0.1    | [Windows 64 Bit](https://github.com/dromilang/Dromi/releases/download/1.0.1/dromi_installer_64bit_windows_1.0.1.exe)| Supportata |
+| 1.0.0    | [Windows 64 Bit](https://github.com/dromilang/Dromi/releases/download/1.0.0/dromi_installer_64bit_windows_1.0.0.exe)| Supportata |
 
 > [!WARNING]
 > - In entrambi i casi, dopo l'installazione riavvia il terminale per aggiornare il PATH.
@@ -227,16 +227,16 @@ Quando hai finito:
 Dromi Supporta Windows 10 e Windows 11.
 Per vedere le versioni supportate:
 
-- [Versioni supportate di Windows 11](https://github.com/DeMENIGECO/Dromi/tree/main/.github/compatibility/win11.md)
-- [Versioni supportate di Windows 10](https://github.com/DeMENIGECO/Dromi/tree/main/.github/compatibility/win10.md)
+- [Versioni supportate di Windows 11](https://github.com/dromilang/Dromi/tree/main/.github/compatibility/win11.md)
+- [Versioni supportate di Windows 10](https://github.com/dromilang/Dromii/tree/main/.github/compatibility/win10.md)
 
 ---
 ## Versione non compilata
 Vai alla versione non compilata di Dromi nella cartella `not-compiled`:
 
-👉 [Vai alla cartella](https://github.com/DeMENIGECO/Dromi/tree/main/not-compiled/)
+👉 [Vai alla cartella](https://github.com/dromilang/Dromi/tree/main/not-compiled/)
 
-👉 [Per saperne di più](https://github.com/DeMENIGECO/Dromi/blob/main/not-compiled/README.md)
+👉 [Per saperne di più](https://github.com/dromilang/Dromi/blob/main/not-compiled/README.md)
 
 ---
 
@@ -251,7 +251,7 @@ Oraè possibile scaricare Dromi per Linux. Con le GitHub actions, verrà generat
 - Copia il file nella cartella `dromi-linux` (creandola se non esiste)
 
 Quando sarà disponibile, aggiungeremo qui il link alla cartella:  
-👉 https://github.com/DeMENIGECO/Dromi/tree/main/dromi-linux
+👉 https://github.com/dromilang/Dromi/tree/main/dromi-linux
 
 >[!TIP]
 >Deve generare file per Linux PyInstaller perché le repository GitHub (precisamente dove girano) è Linux
@@ -277,7 +277,7 @@ Abbiamo fatto l'estensione Dromi per VS Code, ecco come installare:
 
 Ecco la pagina web dell'estensione:
 
-👉 https://demenigeco.github.io/dromilang/vscode
+👉 https://dromilang.github.io/vscode
 
 ---
 
