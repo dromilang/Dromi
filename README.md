@@ -228,7 +228,7 @@ Dromi Supporta Windows 10 e Windows 11.
 Per vedere le versioni supportate:
 
 - [Versioni supportate di Windows 11](https://github.com/dromilang/Dromi/tree/main/.github/compatibility/win11.md)
-- [Versioni supportate di Windows 10](https://github.com/dromilang/Dromii/tree/main/.github/compatibility/win10.md)
+- [Versioni supportate di Windows 10](https://github.com/dromilang/Dromi/tree/main/.github/compatibility/win10.md)
 
 ---
 ## Versione non compilata
