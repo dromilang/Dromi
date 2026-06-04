@@ -10,6 +10,17 @@
 [![FeatureRequests](https://img.shields.io/github/issues/dromilang/Dromi?label=feature%20requests&color=blue&labelColor=black&query=is%3Aissue+is%3Aopen+label%3Aenhancement)](https://github.com/DeMENIGECO/Dromi/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
 [![Problems](https://img.shields.io/github/issues/dromilang/Dromi?label=bugs&color=red&labelColor=black&query=is%3Aissue+is%3Aopen+label%3Abug)](https://github.com/DeMENIGECO/Dromi/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
+<details>
+  <summary>Star History</summary>
+  <a href="https://www.star-history.com/?repos=dromilang%2FDromi&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=dromilang/Dromi&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=dromilang/Dromi&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=dromilang/Dromi&type=date&legend=top-left" />
+ </picture>
+</a>
+</details>
+
 
 _Go to PCs Dromi!_
 
