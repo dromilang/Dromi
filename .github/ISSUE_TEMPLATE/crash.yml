@@ -90,6 +90,7 @@ body:
       options:
         - Windows 11
         - Windows 10
+        - Linux
     validations:
       required: true
 
