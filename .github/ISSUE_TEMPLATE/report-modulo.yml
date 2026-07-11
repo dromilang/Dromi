@@ -75,6 +75,7 @@ body:
       options:
         - "Windows 10"
         - "Windows 11"
+        - "Linux"
     validations:
       required: true
 
