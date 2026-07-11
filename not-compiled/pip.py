@@ -23,7 +23,7 @@ def pip_install(modulo):
     os.makedirs(MDL_DIR, exist_ok=True)
     os.makedirs(TEMP_DIR, exist_ok=True)
 
-    zip_url = f"https://github.com/DeMENIGECO/DromiPip/raw/main/{modulo}.zip"
+    zip_url = f"https://github.com/dromilang/DromiPip/raw/main/{modulo}.zip"
     zip_path = os.path.join(TEMP_DIR, f"{modulo}.zip")
     extract_path = os.path.join(TEMP_DIR, modulo)
 
