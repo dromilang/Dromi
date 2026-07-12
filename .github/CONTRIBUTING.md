@@ -9,7 +9,7 @@ Questo documento spiega come puoi aiutarci a migliorare il progetto in modo chia
 
 Se trovi un bug o un comportamento strano in Dromi:
 
-1. Controlla se il problema è già stato segnalato nella sezione [Issues](https://github.com/DeMENIGECO/Dromi/issues).  
+1. Controlla se il problema è già stato segnalato nella sezione [Issues](https://github.com/dromilang/Dromi/issues).  
 2. Se non esiste, apri un nuovo **Issue** descrivendo usando il nostro template di Bug.  
    - Cosa stavi facendo  
    - Cosa ti aspettavi  
@@ -40,7 +40,7 @@ Se vuoi contribuire scrivendo codice, **Fai un **fork** del repository.**
 
 Puoi comunque aiutare Dromi segnalandoci problemi o suggerimenti.
 
-1. Vai alla pagina [Issues](https://github.com/DeMENIGECO/Dromi/issues) di Dromi su GitHub.
+1. Vai alla pagina [Issues](https://github.com/dromilang/Dromi/issues) di Dromi su GitHub.
 2. Clicca su New Issue.
 3. Usa un template o usa un issue vuoto
 Ogni segnalazione ci aiuta a rendere Dromi migliore! 💚
@@ -48,7 +48,7 @@ Ogni segnalazione ci aiuta a rendere Dromi migliore! 💚
 Oppure puoi discurre nelle Discussions:
 
 1. Assicurati di avere un account GitHub
-2. Vai alla pagina [Discussions](https://github.com/DeMENIGECO/Dromi/discussions)
+2. Vai alla pagina [Discussions](https://github.com/dromilang/Dromi/discussions)
 3. Inizia a discurre!
 
 Anche una dissussione migliora Dromi! 💚
