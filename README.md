@@ -2,7 +2,7 @@
 
 <img width="100" height="100" alt="dromi-icon" src="https://github.com/user-attachments/assets/e7766418-7818-402f-81e7-8703cb08a264" />
 
-# Dromi 1.1.1
+# Dromi 1.1.2
 
 [![PassingBin](https://img.shields.io/badge/Test%20Dromi%20compilato-passing-green?logo=github)](https://github.com/dromilang/Dromi/blob/main/.github/SIGNIFICATES.md?sect=Test-passati#test-passati)
 [![Chat](https://img.shields.io/badge/GitHub%20Discussions-vai-006400)](https://github.com/dromilang/Dromi/discussions)
@@ -29,7 +29,7 @@ _Go to PCs Dromi!_
 ## Tabella dei contenuti
 
 - [Cos'è Dromi?](#cosè-dromi)
-- [🔥 Novità nella versione 1.1.1](#novità-nella-versione-111)
+- [🔥 Novità nella versione 1.1.1](#novità-nella-versione-112)
 - [🔄 Visualizza i comandi](#visualizza-i-comandi)
 - [Esempio di codice](#esempio-di-codice)
 - [Andare nella REPL](#andare-nella-repl)
@@ -58,10 +58,9 @@ _Go to PCs Dromi!_
 Dromi è un linguaggio per creare interfacce grafiche in modo semplice e veloce.
 
 ---
-## Novità nella versione 1.1.1
+## Novità nella versione 1.1.2
 
-- ⚙️ Ottimizzazioni generali  
-- 🐞 Correzione di bug minori  
+- Introduzione cambiamenti [DEP 2](https://github.com/dromilang/deps/blob/main/deps/dep-0002.md) 
 
 ---
 
@@ -163,12 +162,13 @@ windawk.windawk()
 ## Installa
 
 ### Ultima Versione
-👉 [Scarica l'ultima versione - Windows 64 Bit](https://github.com/dromilang/Dromi/releases/download/1.1.1/dromi_installer_64bit_windows_1.1.1.exe)
+👉 [Scarica l'ultima versione - Windows 64 Bit](https://github.com/dromilang/Dromi/releases/download/1.1.1/dromi_installer_64bit_windows_1.1.2.exe)
 
 ### Oppure una versione specifica
 
 | Versione | Installa       | Supporto |
 |:--------:|:--------------:|:---------|
+| 1.1.2    | [Windows 64 Bit](https://github.com/dromilang/Dromi/releases/download/1.1.2/dromi_installer_64bit_windows_1.1.2.exe)| Supportata |
 | 1.1.1    | [Windows 64 Bit](https://github.com/dromilang/Dromi/releases/download/1.1.1/dromi_installer_64bit_windows_1.1.1.exe)| Supportata |
 | 1.1.0    | [Windows 64 Bit](https://github.com/dromilang/Dromi/releases/download/1.1.0/dromi_installer_64bit_windows_1.1.0.exe)| Supportata |
 | 1.0.3    | [Windows 64 Bit](https://github.com/dromilang/Dromi/releases/download/1.0.3/dromi_installer_64bit_windows_1.0.3.exe)| Supportata | 
