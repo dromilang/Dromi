@@ -29,7 +29,7 @@ _Go to PCs Dromi!_
 ## Tabella dei contenuti
 
 - [Cos'è Dromi?](#cosè-dromi)
-- [🔥 Novità nella versione 1.1.1](#novità-nella-versione-112)
+- [🔥 Novità nella versione 1.1.2](#novità-nella-versione-112)
 - [🔄 Visualizza i comandi](#visualizza-i-comandi)
 - [Esempio di codice](#esempio-di-codice)
 - [Andare nella REPL](#andare-nella-repl)
